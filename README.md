@@ -9,4 +9,4 @@
 
 4. http://127.0.0.1:8080/WebGoat/login
 
-5. ![image](https://github.com/thanawut2903/OWASP-WebGoat-install/assets/159118913/83ef5fbd-30a9-4405-9ee4-a535e3ade9fc)
+![image](https://github.com/thanawut2903/OWASP-WebGoat-install/assets/159118913/83ef5fbd-30a9-4405-9ee4-a535e3ade9fc)
