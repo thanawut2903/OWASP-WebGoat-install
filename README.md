@@ -3,9 +3,9 @@
 
 2.Standalone jars : https://github.com/WebGoat/WebGoat/releases
 
-3.install in kali
+3.install in Ubuntu
 
-![image](https://github.com/thanawut2903/OWASP-WebGoat-install/assets/159118913/b6767f85-3439-4587-9a3e-db1994c6cc7d)
+![image](https://github.com/thanawut2903/OWASP-WebGoat-install/assets/159118913/03c2343c-f7a0-4804-aeda-6dbeebcc0834)
 
 4. http://127.0.0.1:8080/WebGoat/login
 
