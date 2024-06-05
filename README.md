@@ -1,4 +1,7 @@
 # OWASP-WebGoat-install
+
+WEBGOAT เป็นแหล่งรวมเว็บที่มีช่องโหว่ต่างๆ
+
 1.Dowload : https://owasp.org/www-project-webgoat/
 
 2.Standalone jars : https://github.com/WebGoat/WebGoat/releases
