@@ -8,7 +8,7 @@ WEBGOAT เป็นแหล่งรวมเว็บที่มีช่อ
 
 3.install in Ubuntu
 
-# sudo apt install default-jre
+#sudo apt install default-jre
 
 4.#java -jar webgoat-2023.8.jar
 
