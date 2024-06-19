@@ -18,4 +18,3 @@ WEBGOAT เป็นแหล่งรวมเว็บที่มีช่อ
 
 ![image](https://github.com/thanawut2903/OWASP-WebGoat-install/assets/159118913/83ef5fbd-30a9-4405-9ee4-a535e3ade9fc)
 
-SESSIONID=7GP44BW5aFjFsknkDebihsD7zNyjVYOp2LePC8m-;
