@@ -8,6 +8,8 @@ WEBGOAT เป็นแหล่งรวมเว็บที่มีช่อ
 
 3.install in Ubuntu
 
+# sudo apt install default-jre
+
 4.#java -jar webgoat-2023.8.jar
 
 ![image](https://github.com/thanawut2903/OWASP-WebGoat-install/assets/159118913/03c2343c-f7a0-4804-aeda-6dbeebcc0834)
